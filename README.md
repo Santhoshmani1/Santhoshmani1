@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend web development**
 
-- 📝 I regularly write articles on [https:santhoshmani.hashnode.dev](santhoshmani.hashnode.dev)
+- 📝 I regularly write articles on [https://santhoshmani.hashnode.dev](santhoshmani.hashnode.dev)
 
 - 💬 Ask me about **C++ , C**
 
