@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend web development**
 
-- 📝 I regularly write articles on **Hashnode**
+- 📝 I regularly write technical articles on **Hashnode**.
 
 - 💬 Ask me about **C++ , C**
 
