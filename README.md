@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshmani1&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshmani1" /> </p>
 
-- 🌱 I’m currently learning **Frontend web development**
+- 🌟I’m currently learning **Frontend web development & Blockchain development**
 
 - 📝 I regularly write technical articles on **Hashnode**.
 
