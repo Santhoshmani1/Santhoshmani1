@@ -8,10 +8,11 @@
 
 - 📝 I regularly write technical articles on **Hashnode**.
 
-- 💬 Ask me about **C++ , C**
+- 💬 Ask me about **C++ , C**.
 
 - 📫 How to reach me **pitakasanthosh@gmail.com**
 
+**LinkedIn :**  https://www.linkedin.com/in/santhoshmanip
 
 
 <h3 align="left">Languages and Tools:</h3>
